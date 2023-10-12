@@ -1,2 +1,2 @@
 # twitter-yn
-Yes-no questions in user-generated content
+Experiment code to be updated shortly
