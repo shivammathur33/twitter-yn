@@ -1,2 +1,4 @@
 # twitter-yn
-Experiment code to be updated shortly
+Setting A: Unmatched Question Unmatched Temporal Span
+Setting B: Matched Question Matched Temporal Span
+Setting C: Unmatched Question Matched Temporal Span
