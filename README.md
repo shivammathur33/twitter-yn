@@ -2,7 +2,7 @@
 
 # Citation
 
-```ruby
+```bibtex
 @inproceedings{findings_emnlp2023_shivam,
   title = {Interpreting Answers to Yes-No Questions in User-Generated Content},
   author = {Mathur, Shivam and Park, Keun Hee and Chinnappa, Dhivya and Kotamraju, Saketh and Blanco, Eduardo},
