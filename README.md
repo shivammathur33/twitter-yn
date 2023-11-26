@@ -1,4 +1,6 @@
-# twitter-yn
+# Twitter-YN
+
+### Twitter-YN
 
 # Citation
 This repository contains the corpus and implemenatation of the paper: Interpreting Answers to Yes-No Questions in User-Generated Content (Findings of EMNLP 2023).
