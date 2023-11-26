@@ -9,7 +9,7 @@ experiments_results: model predictions for each experiment
 additional_data: Search for negation cues [(Hossain et al. 2020)](https://github.com/mosharafhossain/negation-cue) and GPT3 generated disambiguation texts
 
 # Citation
-Corpus and implemenatation of the paper: Interpreting Answers to Yes-No Questions in User-Generated Content (Findings of EMNLP 2023).
+Paper: Interpreting Answers to Yes-No Questions in User-Generated Content (Findings of EMNLP 2023).
 
 ```bibtex
 @inproceedings{findings_emnlp2023_shivam,
