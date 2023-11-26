@@ -6,7 +6,7 @@ experiments: experiment notebooks with tuned hyperparameters
 
 experiments_results: model predictions for each experiment
 
-additional_data: Search for negation cues [(Hossain et al. 2020)](https://github.com/mosharafhossain/negation-cue) and GPT3 generated disambiguation texts
+additional_data: Search for [negation cues](https://github.com/mosharafhossain/negation-cue) and GPT3 generated disambiguation texts
 
 # Citation
 Interpreting Answers to Yes-No Questions in User-Generated Content (Findings of EMNLP 2023).
